@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.scrollspy-example {
+    margin-top: 20px;
+}
+
+.scrollspy-example h4 {
+    color: #333;
+    margin-top: 20px;
+}
+
+.scrollspy-example p {
+    color: #555;
+}
